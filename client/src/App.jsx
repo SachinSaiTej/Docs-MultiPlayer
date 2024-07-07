@@ -4,7 +4,7 @@ import TextEditor from "./components/TextEditor";
 function App() {
   return (
     <>
-      <h1>Google-Docs Clone</h1>
+      <h1>Docs-MultiPlayer</h1>
       <TextEditor />
     </>
   );
